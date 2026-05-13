@@ -1,5 +1,6 @@
-pandas
-numpy
+streamlit
+joblib
 scikit-learn
 xgboost
-streamlit
+pandas
+numpy
